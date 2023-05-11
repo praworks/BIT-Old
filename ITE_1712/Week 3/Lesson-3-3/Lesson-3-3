@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Gallery</title>
+    </head>
+    <body>
+        <h1>My Gallery</h1>
+        <img src="https://www.mpg.de/18490336/original-1656406663.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MTg0OTAzMzZ9--9fae20441fec6fc549b18c2df95372b99979a919" width="400" title="Parrot-1" alt="Parrot-1"/>
+        <br/>
+        <a href="" target="">First Parrot I saw!</a>
+        <br/>
+        <hr/>
+        <img src="https://www.mpg.de/18490336/original-1656406663.jpg?t=eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0IjpudWxsLCJmaXQiOm51bGwsIm9ial9pZCI6MTg0OTAzMzZ9--9fae20441fec6fc549b18c2df95372b99979a919" width="400" title="Parrot-1" alt="Parrot-1"/>
+        <p>Second Parrot I saw!</p>
+   
+
+        <h2>Videos</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/6R8C8BSdMds?start=2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </video>
+    </body>
+</html>

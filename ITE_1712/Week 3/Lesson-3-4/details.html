@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My data collection</title>
+    </head>
+
+    <body>
+        <form action="#" method="post">
+            <label for="user-name">What is your name?</label>
+            <input type="text" name="user_name" id="user-name" value=""/>
+            <br/>
+
+            <label for="password">Prassword</label>
+            <input type="password" name="password"id="password" value="" />
+            <br/>
+
+            <label>Hobby</label>
+            <input type="radio" name="hobby" id="music" value="music"/>
+            <label for="music">music</label>
+
+            <input type="radio" name="hobby" id="books" vvalue="books"/>
+            <label for="books">books</label>
+
+            <input type="radio" name="hobby" id="sports" vvalue="sports"/>
+            <label for="sports">sports</label>
+
+            <input type="radio" name="hobby" id="other" vvalue="other"/>
+            <label for="other">other</label>
+            <br/>
+
+            <label for="area-of-living">Select your area of area_living</label>
+            <select name="area_living">
+                <option value="">Select area</option>
+                <option value="colombo">colombo</option>
+                <option value="other">other</option>
+            </select>
+            <br/>
+
+            <label for="music-genere">Select your music-genere</label>
+            <select name="music_genres" id="music-genre">
+                <option value="">Select genre</option>
+                <option value="hiphop">hiphop</option>
+                <option value="classic">classic</option>
+                <option value="pop">pop</option>
+            </select>
+            <br/>
+
+            <label for="more-details">More details</label>
+            <textarea name="more_details" id="more-details" cols="20"></textarea>
+            <br/>
+
+            <input type="reset" value="Reset"/>
+
+            <input type="submit" value="Submit"/>
+        </form>
+    </body>
+</html>
