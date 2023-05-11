@@ -1,0 +1,28 @@
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.csproj.AssemblyReference.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.csproj.GenerateResource.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.AssemblyInfoInputs.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.AssemblyInfo.cs
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\bin\Debug\net6.0-windows\Week_3_Activity_1_Try_3.exe
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\bin\Debug\net6.0-windows\Week_3_Activity_1_Try_3.deps.json
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\bin\Debug\net6.0-windows\Week_3_Activity_1_Try_3.runtimeconfig.json
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\bin\Debug\net6.0-windows\Week_3_Activity_1_Try_3.dll
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\bin\Debug\net6.0-windows\Week_3_Activity_1_Try_3.pdb
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.Form1.resources
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.dll
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\refint\Week_3_Activity_1_Try_3.dll
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.pdb
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.genruntimeconfig.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\ref\Week_3_Activity_1_Try_3.dll
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week_3_Activity_1_Try_3\obj\Debug\net6.0-windows\Sample.WindowsFormsApp.Form.resources
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.csproj.AssemblyReference.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Sample.WindowsFormsApp.Form.resources
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.csproj.GenerateResource.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.AssemblyInfoInputs.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.AssemblyInfo.cs
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.dll
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\ref\Week_3_Activity_1_Try_3.dll
+C:\Users\Prashanth\Box\BIT\ITE_1112\Week 3\Week3_Activity1_Try3\obj\Debug\net6.0-windows\Week_3_Activity_1_Try_3.pdb
