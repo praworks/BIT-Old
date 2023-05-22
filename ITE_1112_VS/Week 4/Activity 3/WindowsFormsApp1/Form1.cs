@@ -25,22 +25,5 @@ namespace Loops_try_3
             FormWhileLoop formWhileLoop = new FormWhileLoop();
             formWhileLoop.Show();
         }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            FormDoWhileLoop formDoWhileLoop = new FormDoWhileLoop();
-            formDoWhileLoop.Show();
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            FormNested formNested = new FormNested();
-            formNested.Show();
-        }
-
-        private void Home_Load_1(object sender, EventArgs e)
-        {
-
-        }
     }
 }

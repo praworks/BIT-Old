@@ -1,0 +1,11 @@
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 4\Activity 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
