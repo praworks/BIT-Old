@@ -39,7 +39,7 @@ namespace Activity_5
         {
             try
             {
-                //standard process
+                //unstandard process
                 dataGridView1.Rows.Clear();
                 for (int a = 0; a <= 10; a++)
                 {
