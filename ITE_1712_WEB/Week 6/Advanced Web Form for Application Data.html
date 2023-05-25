@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Application Form</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    /* Add your desired CSS styling here */
+  </style>
+</head>
+<body>
+  <div class="container">
+    <form action="process_form.php" method="post">
+      <h2>Personal Information</h2>
+      <div class="form-group">
+        <label for="fullName">Full Name:</label>
+        <input type="text" class="form-control" id="fullName" name="fullName" required>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email Address:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+      </div>
+
+      <div class="form-group">
+        <label for="phone">Phone Number:</label>
+        <input type="tel" class="form-control" id="phone" name="phone" required>
+      </div>
+
+      <div class="form-group">
+        <label for="dob">Date of Birth:</label>
+        <input type="date" class="form-control" id="dob" name="dob" required>
+      </div>
+
+      <div class="form-group">
+        <label>Gender:</label><br>
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="male" name="gender" value="Male" required>
+          <label class="form-check-label" for="male">Male</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="female" name="gender" value="Female">
+          <label class="form-check-label" for="female">Female</label>
+        </div>
+        <div class="form-check form-check-inline">
+          <input type="radio" class="form-check-input" id="other" name="gender" value="Other">
+          <label class="form-check-label" for="other">Other</label>
+        </div>
+      </div>
+
+      <!-- Rest of the form elements -->
+
+      <div class="form-group">
+        <label for="motivation">Motivation Text:</label><br>
+        <textarea class="form-control" id="motivation" name="motivation" rows="4" cols="50"></textarea>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="reset" class="btn btn-secondary">Reset</button>
+    </form>
+  </div>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
