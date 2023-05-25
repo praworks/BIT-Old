@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prashanth\\Desktop\\VS\\Week3_Activity2_Try0\\WinFormsApp6.csproj": {}
+    "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity2_Try0\\WinFormsApp6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prashanth\\Desktop\\VS\\Week3_Activity2_Try0\\WinFormsApp6.csproj": {
+    "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity2_Try0\\WinFormsApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prashanth\\Desktop\\VS\\Week3_Activity2_Try0\\WinFormsApp6.csproj",
+        "projectUniqueName": "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity2_Try0\\WinFormsApp6.csproj",
         "projectName": "WinFormsApp6",
-        "projectPath": "C:\\Users\\Prashanth\\Desktop\\VS\\Week3_Activity2_Try0\\WinFormsApp6.csproj",
+        "projectPath": "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity2_Try0\\WinFormsApp6.csproj",
         "packagesPath": "C:\\Users\\Prashanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prashanth\\Desktop\\VS\\Week3_Activity2_Try0\\obj\\",
+        "outputPath": "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity2_Try0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

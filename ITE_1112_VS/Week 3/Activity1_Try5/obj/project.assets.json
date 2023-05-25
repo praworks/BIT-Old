@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Prashanth\\Box\\BIT\\ITE_1112\\Week 3 1\\Activity1_Try5\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity1_Try5\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\Prashanth\\Box\\BIT\\ITE_1112\\Week 3 1\\Activity1_Try5\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity1_Try5\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\Prashanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Prashanth\\Box\\BIT\\ITE_1112\\Week 3 1\\Activity1_Try5\\obj\\",
+      "outputPath": "C:\\Users\\Prashanth\\source\\repos\\praworks\\BIT\\ITE_1112_VS\\Week 3\\Activity1_Try5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Prashanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
