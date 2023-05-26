@@ -25,7 +25,8 @@
     input[type="text"],
     input[type="password"],
     input[type="email"],
-    textarea {
+    textarea,
+    select {
       width: 100%;
       padding: 8px;
       border: 1px solid #ccc;
@@ -53,13 +54,13 @@
 <body>
   <form action="/submit" method="post">
     <h2>Account Information</h2>
-    <label for="login">Login Name:</label>
+    <label for="login">Login Name*</label>
     <input type="text" id="login" name="login" required>
 
-    <label for="password">Password:</label>
+    <label for="password">Password*</label>
     <input type="password" id="password" name="password" required>
 
-    <label for="confirm-password">Confirm Password:</label>
+    <label for="confirm-password">Confirm Password*</label>
     <input type="password" id="confirm-password" name="confirm-password" required>
 
     <label for="email">Email Address:</label>
@@ -69,11 +70,33 @@
     <input type="email" id="confirm-email" name="confirm-email" required>
 
     <h2>Contact Information</h2>
-    <label for="full-name">Full Name:</label>
+    <label for="full-name">Full Name*</label>
     <input type="text" id="full-name" name="full-name" required>
 
-    <label for="last-name">Last Name:</label>
+    <label for="last-name">Last Name*</label>
     <input type="text" id="last-name" name="last-name" required>
+
+    <label for="address1">Address 1*</label>
+    <input type="text" id="address1" name="address1" required>
+
+    <label for="address2">Address 2*</label>
+    <input type="text" id="address2" name="address2" required>
+
+    <label for="city">City*</label>
+    <input type="text" id="city" name="city" required>
+
+    <label for="StateProvince">State or Province:</label>
+    <select id="StateProvince" name="StateProvince">
+      <option value="">Select a state or province</option>
+      <option value="State">State</option>
+      <option value="Province">Province</option>
+    </select>
+
+    <label for="zip">ZIP*</label>
+    <input type="text" id="zip" name="zip" required>
+
+    <label for="Country">Country*</label>
+    <input type="text" id="Country" name="Country" required>
 
     <label>Gender:</label>
     <input type="radio" id="male" name="gender" value="male" required>
@@ -81,14 +104,31 @@
     <input type="radio" id="female" name="gender" value="female" required>
     <label for="female">Female</label>
 
+    <h2>Miscellaneous Information</h2>
+
     <label for="income">Annual Household Income:</label>
     <input type="number" id="income" name="income" required>
 
-    <h2>Miscellaneous Information</h2>
-    <label for="misc-info">Miscellaneous Information:</label>
-    <textarea id="misc-info" name="misc-info" rows="4" cols="50"></textarea>
+    <label>Interests:</label>
+    <input type="radio" id="shopping-fashion" name="interests" value="Shopping/Fashion" required>
+    <label for="shopping-fashion">Shopping/Fashion</label>
+    <input type="radio" id="sports" name="interests" value="Sports" required>
+    <label for="sports">Sports</label>
+    <input type="radio" id="travel" name="interests" value="Travel" required>
+    <label for="travel">Travel</label>
+
+    <label>Eye color:</label>
+    <input type="radio" id="red" name="eye-color" value="Red" required>
+    <label for="red">Red</label>
+    <input type="radio" id="green" name="eye-color" value="Green" required>
+    <label for="green">Green</label>
+    <input type="radio" id="brown" name="eye-color" value="Brown" required>
+    <label for="brown">Brown</label>
+    <input type="radio" id="blue-gold" name="eye-color" value="Blue Gold" required>
+    <label for="blue-gold">Blue Gold</label>
 
     <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
   </form>
 </body>
 </html>
