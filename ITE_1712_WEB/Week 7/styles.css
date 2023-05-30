@@ -1,0 +1,66 @@
+/* Styling the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Styling a heading element */
+  h1 {
+    color: #ff0000;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling a paragraph element */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Styling a link element */
+  a {
+    color: #0000ff;
+    text-decoration: none;
+  }
+  
+  /* Styling a button element */
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0000ff;
+    color: #fff;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Styling a class inside a specific element */
+  .container .box {
+    background-color: #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling an ID inside a specific element */
+  #header .logo {
+    width: 200px;
+    height: 100px;
+  }
+  
+  /* Media query for responsive design */
+  @media screen and (max-width: 768px) {
+    /* CSS rules for screens with a maximum width of 768 pixels */
+    body {
+      font-size: 14px;
+    }
+  
+    h1 {
+      font-size: 20px;
+    }
+  }
+
+  

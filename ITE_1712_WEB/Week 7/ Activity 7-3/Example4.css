@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+  }
+  
+  h3 {
+    color: #333;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px;
+  }
+  
+  li {
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    padding-left: 40px;
+    margin: 20px;
+  }
+  
