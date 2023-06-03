@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: blue;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: red;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: purple;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            margin-bottom: 10px;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            margin-bottom: 10px;
+        }
+
+        input[type="submit"],
+        input[type="reset"],
+        input[type="button"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+
+        input[type="submit"]:hover,
+        input[type="reset"]:hover,
+        input[type="button"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+
+<body>
+    <form method="post" action="">
+
+        <h1>Form</h1>
+
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+        <label for="pin">PIN:</label>
+        <input type="password" id="pin" name="pin" maxlength="8" placeholder="Enter your PIN" required>
+
+        <input type="hidden" name="pro" value="xm234jq">
+
+        <input type="submit" value="Send Request">
+        <input type="reset" value="Reset the form">
+        <input type="button" value="Click me">
+
+        <label for="sport">Sport:</label>
+        <select name="sport" id="sport" size="3">
+            <option value="Soccer">Soccer</option>
+            <option value="Cricket">Cricket</option>
+            <option value="Baseball">Baseball</option>
+            <option value="Hockey">Hockey</option>
+            <option value="Football">Football</option>
+        </select>
+
+        <p>Chose your interest</p>
+        <input type="checkbox" id="coding" name="interest" value="coding">
+        <label for="coding">coding</label>
+
+        <input type="checkbox" id="coding" name="interest" value="coding">
+        <label for="coding">coding</label>
+
+        <input type="checkbox" id="coding" name="interest" value="coding">
+        <label for="coding">coding</label>
+
+    </form>
+</body>
+
+</html>
