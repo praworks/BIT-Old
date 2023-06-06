@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>E2241017Activity6.1</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: black;
+    }
+
+    form {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    select {
+      width: 100%;
+      box-sizing: border-box;
+      line-height: 30px;
+      text-align: center;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 10px;
+    }
+
+    .form-group label {
+      font-weight: bold;
+    }
+
+    .form-group input[type="checkbox"] {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .form-group label.checkbox-label {
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+
+    .form-group .radio-group {
+      display: flex;
+      align-items: center;
+    }
+
+    .form-group .radio-group label {
+      margin-right: 10px;
+    }
+
+    .form-group .radio-group input[type="radio"],
+    .form-group .radio-group input[type="checkbox"] {
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .form-group .radio-group label.radio-label {
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 10px;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <form method="post" action="">
+    <h1>Account Information</h1>
+
+    <div class="form-group">
+      <label for="log-name"><b>Login Name*:</b></label>
+      <input type="text" id="log-name" name="log-name" placeholder="Enter your name" required>
+    </div>
+
+    <div class="form-group">
+      <label for="psw"><b>Password*:</b></label>
+      <input type="password" id="psw" name="psw" maxlength="8" placeholder="Enter your password" required>
+      <input type="hidden" name="pro" value="xm234jq">
+    </div>
+
+    <div class="form-group">
+      <label for="confirm-psw"><b>Confirm Password*:</b></label>
+      <input type="password" id="confirm-psw" name="pin" maxlength="8" placeholder="Enter your PIN" required>
+      <input type="hidden" name="pro" value="xm234jq">
+    </div>
+
+    <div class="form-group">
+      <label for="email"><b>Email Address:</b></label>
+      <input type="text" placeholder="Enter Email Address" name="email" id="email" required>
+    </div>
+
+    <div class="form-group">
+      <label for="confirm-email"><b>Confirm Email Address:</b></label>
+      <input type="text" placeholder="Confirm Email Address" name="confirm-email" id="confirm-email" required>
+    </div>
+
+    <h1>Contact Information</h1>
+
+    <div class="form-group">
+      <label for="f-name"><b>First Name*:</b></label>
+      <input type="text" id="f-name" name="f-name" placeholder="Enter your first name" required>
+    </div>
+
+    <div class="form-group">
+      <label for="l-name"><b>Last Name*:</b></label>
+      <input type="text" id="l-name" name="l-name" placeholder="Enter your last name" required>
+    </div>
+
+    <div class="form-group">
+      <label for="add1"><b>Address1*:</b></label>
+      <input type="text" id="add1" name="add1" placeholder="" required>
+    </div>
+
+    <div class="form-group">
+      <label for="add2"><b>Address2:</b></label>
+      <input type="text" id="add2" name="add2" placeholder="">
+    </div>
+
+    <div class="form-group">
+      <label for="city"><b>City*:</b></label>
+      <input type="text" id="city" name="city" placeholder="" required>
+    </div>
+
+    <div class="form-group">
+      <label for="state-province"><b>State or Province:</b></label>
+      <select name="state-province" id="state-province" size="3">
+        <option value="Central">Central</option>
+        <option value="Eastern">Eastern</option>
+        <option value="North Central">North Central</option>
+        <option value="North Western">North Western</option>
+        <option value="Sabragmuva">Sabragmuva</option>
+        <option value="Southern">Southern</option>
+        <option value="Uva">Uva</option>
+        <option value="Western">Western</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="zip"><b>Zip*:</b></label>
+      <input type="text" id="zip" name="zip" placeholder="" required>
+    </div>
+
+    <div class="form-group">
+      <label for="country"><b>Country*:</b></label>
+      <input type="text" id="country" name="country" placeholder="" required>
+    </div>
+
+    <div class="form-group">
+      <p><b>Gender:</b></p>
+      <div class="radio-group">
+        <input type="radio" id="male" name="Gender" value="male">
+        <label for="male" class="radio-label">Male</label>
+
+        <input type="radio" id="female" name="Gender" value="female">
+        <label for="female" class="radio-label">Female</label>
+      </div>
+    </div>
+
+    <h1>Miscellaneous Information</h1>
+
+    <div class="form-group">
+      <label for="ahi"><b>Annual Household Income:</b></label>
+      <select name="ahi" id="ahi" size="3">
+        <option value="10,000-20,000">10,000-20,000</option>
+        <option value="20,000-30,000">20,000-30,000</option>
+        <option value="30,000-40,000">30,000-40,000</option>
+        <option value="40,000-50,000">40,000-50,000</option>
+        <option value="above 50,000">above 50,000</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <p><b>Interest:</b></p>
+      <input type="checkbox" id="sf" name="interest" value="sf">
+      <label for="sf" class="checkbox-label">Shopping fashion</label>
+
+      <input type="checkbox" id="spt" name="interest" value="spt">
+      <label for="spt" class="checkbox-label">Sport</label>
+
+      <input type="checkbox" id="tvl" name="interest" value="tvl">
+      <label for="tvl" class="checkbox-label">Travel</label>
+    </div>
+
+    <div class="form-group">
+      <p><b>Eye Color:</b></p>
+      <input type="checkbox" id="R" name="Color" value="R">
+      <label for="R" class="checkbox-label">Red</label>
+
+      <input type="checkbox" id="G" name="Color" value="G">
+      <label for="G" class="checkbox-label">Green</label>
+
+      <input type="checkbox" id="B" name="Color" value="B">
+      <label for="B" class="checkbox-label">Brown</label>
+
+      <input type="checkbox" id="Bg" name="Color" value="Bg">
+      <label for="Bg" class="checkbox-label">Blue Gold</label>
+    </div>
+
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+  </form>
+</body>
+
+</html>

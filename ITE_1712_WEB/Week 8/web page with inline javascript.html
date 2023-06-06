@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Button Click Message</title>
+</head>
+<body>
+
+<h1>Button Click Message</h1>
+
+<button onclick="displayMessage()">Click Me</button>
+
+<p id="message"></p>
+
+<script>
+  function displayMessage() {
+    var messageElement = document.getElementById("message");
+    messageElement.textContent = "Button clicked!";
+  }
+</script>
+
+</body>
+</html>
