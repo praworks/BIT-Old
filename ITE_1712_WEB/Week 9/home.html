@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Greeting Example</title>
+  <script>
+    function getTimeOfDay() {
+      const currentTime = new Date();
+      const currentHour = currentTime.getHours();
+
+      if (currentHour < 12) {
+        return 'morning';
+      } else if (currentHour < 18) {
+        return 'afternoon';
+      } else {
+        return 'evening';
+      }
+    }
+
+    function greetUser() {
+      const userName = prompt('Please enter your name:');
+      const timeOfDay = getTimeOfDay();
+      const greeting = `Good ${timeOfDay}, ${userName}!`;
+
+      console.log(greeting);
+      document.getElementById('greeting').textContent = greeting;
+    }
+  </script>
+</head>
+<body>
+  <h1>Greeting Example</h1>
+  <button onclick="greetUser()">Click Me</button>
+  <p id="greeting"></p>
+</body>
+</html>
