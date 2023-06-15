@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Summation Calculator</title>
+  <script>
+    function calculateSum() {
+      // Get the input value
+      const userInput = document.getElementById("numberInput").value;
+
+      // Convert the user input to an integer
+      const number = parseInt(userInput);
+
+      // Check if the user entered a valid integer
+      if (Number.isNaN(number)) {
+        document.getElementById("result").textContent = "Invalid input. Please enter a valid integer.";
+      } else {
+        // Calculate the summation of positive integers up to the given number
+        let sum = 0;
+        for (let i = 1; i <= number; i++) {
+          sum += i;
+        }
+
+        // Display the result
+        document.getElementById("result").textContent = `The summation of positive integers up to ${number} is ${sum}.`;
+      }
+    }
+  </script>
+</head>
+<body>
+  <h1>Summation Calculator</h1>
+  <label for="numberInput">Enter an integer:</label>
+  <input type="text" id="numberInput">
+  <button onclick="calculateSum()">Calculate</button>
+  <p id="result"></p>
+</body>
+</html>

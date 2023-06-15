@@ -2,15 +2,42 @@
 <html>
 
 <body>
-    <h3>A demonstration of how to access a Text Field</h3> <input type="text" id="myText" value="Some text...">
-    <p>Click the "Try it" button to get the text in the text field.</p> <button onclick="myFunction()">Try it</button>
-    <p id="demo"></p>
-    <script>
-        function myFunction() {
-            var x = document.getElementById("myText").value;
-            document.getElementById("demo").innerHTML = x;
-        }
-    </script>
+  <style>
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+      height: 100vh; 
+    }
+  </style>
+
+  <h3>Exercise of how to access a Text Field</h3>
+  <div class="container">
+    Your name: <input type="text" id="name" value="name">
+    Enter your age: <input type="text" id="age" value="age">
+    Enter your address: <input type="text" id="address" value="address">
+
+    <p>Click the "Try it" button to get the text in the text field.</p>
+    <button onclick="myFunction()">Try it</button>
+
+    <p id="nameValue"></p>
+    <p id="ageValue"></p>
+    <p id="addressValue"></p>
+
+  </div>
+
+  <script>
+    function myFunction() {
+      var name = document.getElementById("name").value;
+      var age = document.getElementById("age").value;
+      var address = document.getElementById("address").value;
+
+      document.getElementById("nameValue").innerHTML = "Name: " + name;
+      document.getElementById("ageValue").innerHTML = "Age: " + age;
+      document.getElementById("addressValue").innerHTML = "Address: " + address;
+    }
+  </script>
 </body>
 
 </html>

@@ -1,16 +1,31 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>User Details</title>
+  <script>
+    // Function to prompt the user for details and display them on the webpage
+    function getUserDetails() {
+      var firstName = prompt("Enter your First Name:");
+      var lastName = prompt("Enter your Last Name:");
+      var dob = prompt("Enter your Date of Birth (MM/DD/YYYY):");
+      var address = prompt("Enter your Address:");
+      var telephone = prompt("Enter your Telephone Number:");
 
+      var greeting = "Hello, " + firstName + " " + lastName + "!";
+      var details = "Date of Birth: " + dob + "<br>" +
+                    "Address: " + address + "<br>" +
+                    "Telephone Number: " + telephone;
+
+      document.getElementById("greeting").innerHTML = greeting;
+      document.getElementById("details").innerHTML = details;
+    }
+  </script>
+</head>
 <body>
-    <p>Click the button to demonstrate the prompt box.</p> <button onclick="myFunction()">Try it</button>
-    <p id="demo"></p>
-    <script>
-        function myFunction() {
-            var person = prompt("Please enter your name", "Gamini"); if (person != null) {
-                document.getElementById("demo").innerHTML =
-                    "Hello " + person + "! How are you today?";
-            }
-        } </script>
-</body>
+  <h1>User Details</h1>
+  <button onclick="getUserDetails()">Enter Details</button>
 
+  <h2 id="greeting"></h2>
+  <div id="details"></div>
+</body>
 </html>
