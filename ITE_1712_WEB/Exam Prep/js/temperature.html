@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html >
+<html>
+
+<head>
+
+<title>Untitled 1</title>
+
+</head>
+
+<body >
+	<div style ="text-align:center">
+	<form >
+		<h1>Today's Weather</h1>
+	<label id="Label1">Date(dd/mm/yy):</label>
+	<input name="Text1" type="text"  id="date"/>
+	
+	<p>Location:
+		<input name="Radio1" type="radio" id="kndy" />
+		<label id="Label1">kandy</label>
+		<input name="Radio1" type="radio" id="mtr" />
+		<label id="Label1">Matara</label>
+		<input name="Radio1" type="radio" id="clmb"/>
+		<label id="Label1">Colombo</label>
+		</p>
+		<label id="Label1">Temperature</label>
+		<input name="Text1" type="text" id="temp"/>	
+		<br><br>
+		<input name="Submit1" type="submit" value="submit"  onclick ="cal()"/>
+		<input name="Reset1" type="reset" value="clear" onclick="dlt()" />
+			
+	</form>
+	
+	</div>
+	
+	
+	
+<script type="">
+	function cal()
+	{
+		
+		var temperature = document.getElementById('temp').value;
+		var dates = document.getElementById('date').value;
+
+		if(document.getElementById('kndy').checked == false && document.getElementById('mtr').checked == false && document.getElementById('clmb').checked == false)
+		{
+		 alert("Please select location");
+
+		}
+
+		else if(temperature != "" && dates !="" )
+		{
+			var Fahrenheit = (temperature * 1.8) + 32;	
+			
+			alert("Today’s temperature = " + Fahrenheit + " " + "Fahrenheit" );		
+		}else
+		{
+			alert("Please give all inputs");
+
+		}
+
+	}
+	
+	
+</script>
+</body>
+
+</html>

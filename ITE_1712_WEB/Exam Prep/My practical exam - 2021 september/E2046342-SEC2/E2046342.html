@@ -1,0 +1,65 @@
+<html>
+<head>
+<script>
+function validate(){
+			var Date = document.getElementById("Date").value;
+			var Location = document.forms["welcomeForm"]["loc"].value;
+			var temp = document.forms["welcomeForm"]["temp"].value;
+			if (temp =""){
+			 alert ("");
+			 }
+			else {
+            	
+				alert("Today;s temperature =  " + temp + "Fahrenheit");
+			}
+		}		
+		 
+function myFunction2() {
+      document.getElementById("welcomeForm").reset();
+	}	
+</script>
+</head>
+<body>
+<form name="welcomeForm" onsubmit="validate()">
+<table>
+<center><h1>Today's Weather </h1></center>
+<tr>
+<td align="left">
+Date (dd/mm/yy):
+</td>
+<td>
+<input type = "text" size="15" name="d" id="Date">
+</td>
+</tr>
+<tr>
+<td align="left">
+Location:
+</td>
+<td id="loc">
+<input type="radio"  name="loc" >Kandy
+<input type="radio" name="loc"  >Matara
+<input type="radio" name="loc" >Colombo
+</td>
+</tr>
+</div>
+<tr>
+<td align="left">
+Temperature ('c):
+</td>
+<td>
+<input type = "text" size="15" name="d" id="temp">
+</td>
+</tr>
+<tr>
+			<td></td>
+			<th><input type ="submit" name = "Submit" value = "Submit">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			
+			
+             <input type="button" onclick="myFunction2()" value="Clear"></th>
+		</tr>
+</table>
+
+
+</form>
+
+</html>

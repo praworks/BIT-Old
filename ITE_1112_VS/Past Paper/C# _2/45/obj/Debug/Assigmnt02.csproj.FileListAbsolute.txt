@@ -1,0 +1,11 @@
+C:\Users\ruvin\Desktop\C# _2\45\bin\Debug\45.exe.config
+C:\Users\ruvin\Desktop\C# _2\45\bin\Debug\45.exe
+C:\Users\ruvin\Desktop\C# _2\45\bin\Debug\45.pdb
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\Assigmnt02.csproj.AssemblyReference.cache
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\Assigmnt02.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\_45.Form1.resources
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\_45.Properties.Resources.resources
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\Assigmnt02.csproj.GenerateResource.cache
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\Assigmnt02.csproj.CoreCompileInputs.cache
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\45.exe
+C:\Users\ruvin\Desktop\C# _2\45\obj\Debug\45.pdb

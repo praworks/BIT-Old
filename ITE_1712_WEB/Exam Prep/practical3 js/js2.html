@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Welcome</title>
+</head>
+
+<body style="text-align:center;border:2px solid black">
+<h1>Welcome</h1>
+
+<form>
+	<p>Title 
+	<select name="Select1" id="title">
+				<option value="default" id="de"></option>
+				<option value="Mr" id="mr">Mr.</option>
+				<option value="Ms" id="ms">Ms.</option>
+				<option value="Prof" id="pr">Prof.</option>
+				<option value="Dr" id="dr">Dr.</option>
+			</select>  <br><br>				</p>
+	
+	<label id="Label1">Ful Name</label>
+	<input name="Text1" type="text" id="name"/>  <br><br>
+	
+	<label id="Label1">No. of Guest</label>
+	<input name="Text2" type="text" id="guest"/>  <br><br>
+
+	
+	<input name="Submit1" type="submit" value="submit" onclick=" greet()"/>
+	<input name="Reset1" type="reset" value="reset" />
+</form>
+
+<script type="">
+	function greet(){
+		var titleValue = document.getElementById('title').value;
+		var person = document.getElementById('name').value;
+		var count = document.getElementById('guest').value;
+		
+		
+		if( count > 10){
+			alert("guests is more than 10");
+
+		}
+		else if(document.getElementById('title').value != "default" && person !="" && count !=""){
+			alert("Greeting," + titleValue + " " + person );
+		}else{
+			alert("Please give all inputs");
+		}
+
+
+		
+	}
+</script>
+</body>
+
+</html>
