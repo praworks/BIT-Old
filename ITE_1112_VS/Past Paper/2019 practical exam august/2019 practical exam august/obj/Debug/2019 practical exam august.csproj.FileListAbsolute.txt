@@ -1,9 +1,0 @@
-C:\EE\2019 practical exam august\2019 practical exam august\bin\Debug\2019 practical exam august.exe.config
-C:\EE\2019 practical exam august\2019 practical exam august\bin\Debug\2019 practical exam august.exe
-C:\EE\2019 practical exam august\2019 practical exam august\bin\Debug\2019 practical exam august.pdb
-C:\EE\2019 practical exam august\2019 practical exam august\obj\Debug\2019 practical exam august.csprojResolveAssemblyReference.cache
-C:\EE\2019 practical exam august\2019 practical exam august\obj\Debug\_2019_practical_exam_august.frmSalaryCalculator.resources
-C:\EE\2019 practical exam august\2019 practical exam august\obj\Debug\_2019_practical_exam_august.Properties.Resources.resources
-C:\EE\2019 practical exam august\2019 practical exam august\obj\Debug\2019 practical exam august.csproj.GenerateResource.Cache
-C:\EE\2019 practical exam august\2019 practical exam august\obj\Debug\2019 practical exam august.exe
-C:\EE\2019 practical exam august\2019 practical exam august\obj\Debug\2019 practical exam august.pdb
