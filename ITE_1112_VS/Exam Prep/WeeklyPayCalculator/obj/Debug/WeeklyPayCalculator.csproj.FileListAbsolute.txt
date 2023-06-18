@@ -1,0 +1,11 @@
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.csproj.AssemblyReference.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.MainForm.resources
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.Properties.Resources.resources
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.csproj.GenerateResource.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\bin\Debug\WeeklyPayCalculator.exe.config
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\bin\Debug\WeeklyPayCalculator.exe
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\bin\Debug\WeeklyPayCalculator.pdb
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.exe
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Exam Prep\WeeklyPayCalculator\obj\Debug\WeeklyPayCalculator.pdb

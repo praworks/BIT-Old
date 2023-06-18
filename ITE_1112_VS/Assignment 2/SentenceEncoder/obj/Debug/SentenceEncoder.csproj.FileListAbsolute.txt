@@ -1,0 +1,11 @@
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.csproj.AssemblyReference.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.MainForm.resources
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.Properties.Resources.resources
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.csproj.GenerateResource.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\bin\Debug\SentenceEncoder.exe.config
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\bin\Debug\SentenceEncoder.exe
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\bin\Debug\SentenceEncoder.pdb
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.exe
+C:\Users\Prashanth\Documents\GitHub\BIT\ITE_1112_VS\Assignment 2\SentenceEncoder\obj\Debug\SentenceEncoder.pdb

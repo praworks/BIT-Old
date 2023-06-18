@@ -1,0 +1,34 @@
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.exe
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.deps.json
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.runtimeconfig.json
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.dll
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\bin\Debug\net6.0-windows\ref\Hello word.dll
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.pdb
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.csproj.AssemblyReference.cache
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello_word.HelloWord.resources
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.csproj.GenerateResource.cache
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.AssemblyInfoInputs.cache
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.AssemblyInfo.cs
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.dll
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\ref\Hello word.dll
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.pdb
+C:\Users\Prashanth\Desktop\VS\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.genruntimeconfig.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.exe
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.deps.json
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.runtimeconfig.json
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.dll
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\bin\Debug\net6.0-windows\Hello word.pdb
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.csproj.AssemblyReference.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello_word.HelloWord.resources
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.csproj.GenerateResource.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.AssemblyInfoInputs.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.AssemblyInfo.cs
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.csproj.CoreCompileInputs.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.dll
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\refint\Hello word.dll
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.pdb
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\Hello word.genruntimeconfig.cache
+C:\Users\Prashanth\source\repos\praworks\BIT\ITE_1112_VS\Week 2\Hello word\Hello word\obj\Debug\net6.0-windows\ref\Hello word.dll
